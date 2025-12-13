@@ -19,3 +19,6 @@ Incluye `InstancedMesh` para renderizar miles de puntos de manera eficiente.
   https://www.kaggle.com/datasets/grebublin/coronavirus-latlon-dataset
   
 Es un dataset muy pequeñito (apenas 2 meses y poco) pero da para la demostración
+
+# Enlace codesandbox
+[enlace](https://codesandbox.io/p/sandbox/crazy-bartik-nmx8xc?file=%2Fsrc%2Findex.js)
